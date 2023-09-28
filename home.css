@@ -1,0 +1,45 @@
+#menu {
+
+background-color: #17365D;
+    
+}
+
+#imagem {
+    margin-right: 20px; 
+    display: flex;
+    margin-left: 10px;
+}
+
+#tela {
+
+    display: flexbox;
+}
+@font-face{
+    font-family: inter;
+    src: url(Fonte/Inter-ExtraLight.ttf);
+}
+#id{
+    font-family:  inter;
+    color: aliceblue;
+}
+
+
+#quemsomos
+{
+
+    font-family: inter;
+    color: aliceblue;
+}
+
+#login {
+
+    font-family: inter;
+    color: white;
+}
+
+#navbarDropdown {
+
+    font-family: inter;
+    color: white;
+}
+
